@@ -1,5 +1,5 @@
 # GeographicCoordinates
-A class for working with points on the Earth's surface (latitude and longitude).
+A class on C++ for working with points on the Earth's surface (latitude and longitude).
 
 This class has the following methods:
 
